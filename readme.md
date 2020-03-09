@@ -1,7 +1,17 @@
 ## How to run the code
 
-run 
+### Dependencies:
 
+#### numpy
+#### scipy
+#### Python-igraph
+```shell
+sudo pip install python-igraph==0.7.1.post4
+```
+
+### To run the algorithm:
+
+run 
 ```shell
 python notears_linear_l1.py Data\ Files/<FILE_NAME>
 ```
